@@ -26,8 +26,8 @@
 ## LunaProxy
 *专业、强大，但稍显“高不可攀”*
 
-<a href='https://postimg.cc/rz5T3mpN' target='_blank'><img src='https://i.postimg.cc/rz5T3mpN/Anh-chup-man-hinh-2025-11-05-152304.png' border='0' alt='Anh-chup-man-hinh-2025-11-05-152304'></a>
- 
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/sX2hzF7K/Anh-chup-man-hinh-2025-11-05-152304.png' border='0' alt='Anh-chup-man-hinh-2025-11-05-152304'></a>
+
 与 711Proxy 相反，LunaProxy 更像是一套为真正企业级用户打造的系统。它拥有极为详尽的管理界面、强大的 API，以及几乎可实时追踪每个请求的能力。如果你正在运营一个大型团队或代理机构，需要同时处理上十万次连接，那么 LunaProxy 绝对值得被列入清单。
 不过，也正因为面向企业用户，LunaProxy 的成本并不友好。它采用按数据流量计费的方式，仅仅测试几天的费用就可能不低。此外，对于新手来说，配置过程相对复杂，并不是每个人都能轻松上手。
 我曾在一次大规模数据采集项目中使用过 LunaProxy——整体体验确实流畅且高效，但很明显，它只有在你预算充足、需求高度专业化的情况下，才真正物有所值。
